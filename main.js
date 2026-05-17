@@ -85,8 +85,8 @@ const i18n = {
   'proj-6-role': 'Lead',
 
   'skills-section-title': 'Skills',
-  'skill-label-1': 'Frameworks',
-  'skill-label-2': 'Research Areas',
+  'skill-label-1': '🛠️ Frameworks',
+  'skill-label-2': '🔬 Research Areas',
   'sk-det':   'Object Detection',
   'sk-seg':   'Image Segmentation',
   'sk-mllm':  'Multimodal LLM',
