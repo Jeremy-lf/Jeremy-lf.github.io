@@ -20,7 +20,7 @@ const i18n = {
   'chip-5': 'Autonomous Driving Perception',
 
   'news-title': '📢 Latest News',
-  'news-1': '<span class="news-date">2026.03</span> CRASH-Bench submitted to ECCV 2025 — multimodal traffic accident causal reasoning benchmark',
+  'news-1': '<span class="news-date">2026.03</span> CRASH-Bench submitted to NeuIPS 2026 — multimodal traffic accident causal reasoning benchmark',
   'news-2': '<span class="news-date">2026.01</span> Text2Traffic accepted at AIGC 2025 — text-to-image &amp; image editing',
   'news-3': '<span class="news-date">2025.05</span> Leading "Multimodal Abnormal Event Understanding" project — PR&gt;95% on construction/accident/fire',
   'news-4': '<span class="news-date">2024.09</span> RT-DETRv3 accepted at WACV 2025 Oral',
