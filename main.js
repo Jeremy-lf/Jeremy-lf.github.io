@@ -36,7 +36,7 @@ const i18n = {
   'work-1-place': 'Baidu',
   'work-1-role':  'Algorithm Engineer · Full-time',
   'work-1-time':  'Jul 2021 — Jun 2026',
-  'work-2-place': 'OPPO Research Institute',
+  'work-2-place': 'OPPO',
   'work-2-role':  'Algorithm Intern',
   'work-2-time':  'Mar 2021 — Jun 2021',
   'work-3-place': 'Momo Inc.',
